@@ -1,6 +1,6 @@
-package me.empiremtr.main.management;
+package me.empire.main.management;
 
-import me.yochran.invadedsoup.InvadedSoup;
+import me.empire.main.InvadedSoup;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.World;
