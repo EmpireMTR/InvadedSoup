@@ -1,4 +1,4 @@
-package me.yochran.invadedsoup.runnables;
+package me.empiremtr.main.runnables;
 
 import me.yochran.invadedsoup.InvadedSoup;
 import me.yochran.invadedsoup.utils.Utils;
