@@ -1,6 +1,6 @@
-package me.empiremtr.main.runnables;
+package me.empire.main.runnables;
 
-import me.yochran.invadedsoup.InvadedSoup;
+import me.empire.main.InvadedSoup;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;
